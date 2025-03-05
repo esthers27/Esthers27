@@ -6,7 +6,7 @@ Estudante de Publicidade e Propaganda | Apaixonada por Marketing Digital | Criad
 ## Projetos
 
 - 📦 **[Portfólio Online](https://linkdaseuperfil.com)** - Meus projetos e experiências (em andamento).
-- 💻 **[GitHub](https://github.com/EstherSouza)** - Repositórios de projetos e estudos.
+- 💻 **[GitHub](https://github.com/esthers27/DevFem-projeto.git)** - Repositórios de projetos e estudos.
 
 ## Habilidades Técnicas
 
