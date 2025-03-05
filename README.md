@@ -21,4 +21,4 @@ Estudante de Publicidade e Propaganda | Apaixonada por Marketing Digital | Criad
 
 ## Contato
 - 📧 Email: esthersouza279@gmail.com
-- 🔗 LinkedIn: [@EstherSouza](www.linkedin.com/in/thersouza)
+- 🔗 LinkedIn: [@EstherSouza](https://www.linkedin.com/in/thersouza/)
