@@ -1,13 +1,14 @@
-# Olá, eu sou Esther Souza 👋
-Estudante de Publicidade e Propaganda | Apaixonada por Marketing Digital | Criadora de Estratégias Criativas
+# Olá! Seja Bem Vindo (a) ao meu GitHub 👋
+Me chamo Esther Souza, tenho 21 anos, sou desenvolvedora e publicitária baiana.
 
-🌐 Conectando pessoas com criatividade e inovação.
+## 📚 Sobre mim
+Após o Técnico em Desenvolvimento de Sistemas, estou aprimorando minhas habilidades em Desenvolvimento Front-End (HTML, CSS, JavaScript e React) enquanto curso Publicidade e Propaganda. Isso me permite integrar tecnologia com comunicação digital, branding e estratégias de marketing, criando experiências digitais alinhadas às necessidades do mercado
 
-## Projetos
+### Formação:
 
-- 📦 **[Portfólio Online](https://linkdaseuperfil.com)** - Meus projetos e experiências (em andamento).
-- 💻 **[GitHub](https://esthers27.github.io/DevFem-projeto/)** - Repositórios de projetos e estudos.
-
+- **Técnico em Desenvolvimento de Sistemas** 
+- **Cursando Publicidade e Propaganda** 
+  
 ## Habilidades Técnicas
 
 - Marketing Digital e Branding
@@ -18,6 +19,8 @@ Estudante de Publicidade e Propaganda | Apaixonada por Marketing Digital | Criad
 - Organização e Adaptabilidade
 - Programação (JavaScript, Java, PHP, HTML, CSS)
 - Microsoft Office (Excel, Word, PowerPoint)
+
+###**My Skills**
 
 ### Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
