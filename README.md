@@ -2,25 +2,25 @@
 Me chamo Esther Souza, tenho 21 anos, sou desenvolvedora e publicitária baiana apaixonada por tecnologia e comunicação!
 
 ## 📚 Sobre mim
-Após concluir o Técnico em Desenvolvimento de Sistemas, estou aprimorando minhas habilidades em Desenvolvimento Front-End (HTML, CSS, JavaScript e React) enquanto curso Publicidade e Propaganda. Essa combinação me permite integrar tecnologia à comunicação digital, branding e estratégias de marketing, criando experiências digitais alinhadas às necessidades do mercado.
+Após concluir o Técnico em Desenvolvimento de Sistemas, estou aprimorando minhas habilidades em Desenvolvimento Front-End (💻 HTML, 🎨 CSS, ⚙️ JavaScript e ⚛️ React ) enquanto curso Publicidade e Propaganda. Essa combinação me permite integrar tecnologia à comunicação digital, branding e estratégias de marketing, criando experiências digitais alinhadas às necessidades do mercado.
 
-### Formação:
+### 🎓Formação:
 
 - **Técnico em Desenvolvimento de Sistemas** 
 - **Cursando Publicidade e Propaganda** 
   
-## Habilidades Técnicas
+## 🔑Habilidades Técnicas
 
-- Marketing Digital e Branding
-- Planejamento Estratégico
-- Ferramentas de Design (Canva, Photoshop básico)
-- Proatividade e Criatividade
-- Comunicação e Trabalho em Equipe
-- Organização e Adaptabilidade
-- Programação (JavaScript, Java, PHP, HTML, CSS)
-- Microsoft Office (Excel, Word, PowerPoint)
+- 📱 Marketing Digital e Branding
+- 📊 Planejamento Estratégico
+- 🎨 Ferramentas de Design (Canva, Photoshop básico)
+- 💡 Proatividade e Criatividade
+- 💬 Comunicação e Trabalho em Equipe
+- 📌 Organização e Adaptabilidade
+- 💻 Programação (JavaScript, Java, PHP, HTML, CSS)
+- 🧠 Microsoft Office (Excel, Word, PowerPoint)
 
-## My Skills
+## 🚀My Skills
 
 ### Linguagens & Frameworks
 <div align="left">
@@ -59,7 +59,7 @@ Após concluir o Técnico em Desenvolvimento de Sistemas, estou aprimorando minh
 </div>
 
 
-## Contato
+## 📩Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/thersouza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn logo" />
