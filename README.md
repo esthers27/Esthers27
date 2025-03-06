@@ -1,5 +1,5 @@
 # Olá! Seja Bem Vindo (a) ao meu GitHub 👋
-Me chamo Esther Souza, tenho 21 anos, sou desenvolvedora e publicitária baiana apaixonada por tecnologia e comunicação.
+Me chamo Esther Souza, tenho 21 anos, sou desenvolvedora e publicitária baiana apaixonada por tecnologia e comunicação!
 
 ## 📚 Sobre mim
 Após o Técnico em Desenvolvimento de Sistemas, estou aprimorando minhas habilidades em Desenvolvimento Front-End (HTML, CSS, JavaScript e React) enquanto curso Publicidade e Propaganda. Isso me permite integrar tecnologia com comunicação digital, branding e estratégias de marketing, criando experiências digitais alinhadas às necessidades do mercado.
