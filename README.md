@@ -20,7 +20,7 @@ Após o Técnico em Desenvolvimento de Sistemas, estou aprimorando minhas habili
 - Programação (JavaScript, Java, PHP, HTML, CSS)
 - Microsoft Office (Excel, Word, PowerPoint)
 
-###**My Skills**
+## My Skills
 
 ### Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
