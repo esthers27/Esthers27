@@ -3,7 +3,8 @@ Me chamo Esther Souza, tenho 21 anos, sou desenvolvedora e publicitária baiana 
 
 ## 📚 Sobre mim
 Tenho uma grande paixão por tecnologia e comunicação, e acredito que elas se complementam. Com a formação em Técnico em Desenvolvimento de Sistemas e atualmente cursando Publicidade e Propaganda, busco unir minha criatividade no marketing com habilidades técnicas em Desenvolvimento Front-End (💻 HTML, 🎨 CSS, ⚙️ JavaScript, ⚛️ React). Meu objetivo é criar experiências digitais que conectem marcas e pessoas de forma autêntica e inovadora. Estou em busca de oportunidades para aplicar minhas habilidades e contribuir de forma positiva no mundo digital.
-### 🎓 Formação:
+
+## 🎓 Formação:
 
 - **Técnico em Desenvolvimento de Sistemas** 
 - **Cursando Publicidade e Propaganda** 
